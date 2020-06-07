@@ -1,4 +1,5 @@
-survey_results_public.csv
+*.survey_results_public.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
